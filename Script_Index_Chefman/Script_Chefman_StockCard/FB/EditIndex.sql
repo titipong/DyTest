@@ -5,12 +5,7 @@ DROP INDEX [_idx_StkCard_1] ON [dbo].[StockCardTable]
 GO
 
  
-
- jfijflksjf]]
-
-
- sdjflksdj
-
+Hi man
 /****** Object:  Index [_idx_StkCard_1]    Script Date: 9/11/2018 10:33:33 AM ******/
 CREATE NONCLUSTERED INDEX [_idx_StkCard_1] ON [dbo].[StockCardTable]
 (
